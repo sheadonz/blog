@@ -1,7 +1,7 @@
 ---
 title: 🎉 Study on imidazolate-bridged divalent copper ion complexes capped with tris(1-pyrazolyl)methane
 summary: 
-date: 2016-01-01
+date: 2015-01-01
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

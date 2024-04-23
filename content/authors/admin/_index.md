@@ -1,6 +1,6 @@
 ---
 # Display name
-title: shaedonz
+title: sheadonz
 
 # Name pronunciation (optional)
 name_pronunciation: 
