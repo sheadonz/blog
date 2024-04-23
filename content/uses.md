@@ -1,22 +1,35 @@
 ---
-title: Uses
-date: 2023-10-24
+title: License
+date: 2024-04-23
 hide_date: true
 reading_time: false
 ---
+### 品質管理検定 (QC検定) 2級
+- **概要**: 品質管理に関する知識の程度を全国で筆記試験を通じて客観的に評価する試験です。品質管理、改善能力の向上を目指す個人や企業に適しています。
+- **認定機関**: 日本規格協会 (JSA)
+- **公式ウェブサイト**: [JSA Group Webdesk](https://webdesk.jsa.or.jp/common/W10K0500/index/qc/)
 
-The idea of a Uses page is to tell you about the stuff I use.
+### G検定 (ジェネラリスト検定)
+- **概要**: AI及びディープラーニングのビジネスへの応用知識を評価する資格で、エンジニアだけでなく、幅広い専門家にAIリテラシーを促進することを目的としています。
+- **認定機関**: 一般社団法人日本ディープラーニング協会 (JDLA)
+- **公式ウェブサイト**: [JDLA](https://www.jdla.org)
 
-Make sure to check out [uses.tech](https://uses.tech/) for a list of everyone's Uses pages!
+### 第二種電気工事士
+- **概要**: 電気工事における実務および理論的な理解を評価し、電気設備の設置、変更、保守作業が可能な資格です。
+- **認定機関**: 経済産業省
+- **公式ウェブサイト**: [電気技術者試験センター](https://www.shiken.or.jp/examination/index05.html)
 
-I often get asked about what software or hardware I use, so this page will serve as a living document and a place to point curious readers to when I get asked.
+### ファイナンシャルプランナー技能検定 3級
+- **概要**: 保険、投資、税金計画など、さまざまな金融計画に関する知識を試験で問い、金融アドバイスを提供する者に適した資格です。
+- **認定機関**: 日本FP協会
+- **公式ウェブサイト**: [日本FP協会](https://www.jafp.or.jp)
 
-## Editor + Terminal
+### 第三種電気主任技術者
+- **概要**: 電気設備の運用と管理を監督し、運用の安全性および技術基準の順守を保証する資格です。
+- **認定機関**: 経済産業省
+- **公式ウェブサイト**: [電気技術者試験センター](https://www.shiken.or.jp/examination/index03.html)
 
-- [Visual Studio Code](https://code.visualstudio.com/) is my current editor
-- Chrome is my main browser
-- iTerm2 is my terminal
+### TOEIC
+- **スコア**: 615点 (取得日: 2023年3月)
+- **公式ウェブサイト**: [TOEIC公式サイト](https://www.toeic.or.jp)
 
-## Desktop Apps
-
-- Better Touch Tool for window management and custom keyboard shortcuts
