@@ -1,0 +1,24 @@
+{
+	"Equation (Display) for hugo": {
+		"prefix": "eqd",
+		"body": [
+			"{{< eq-display >}}",
+			"$1",
+			"{{< /eq-display >}}"
+		],
+		"description": "Equation (Display)"
+	},
+  "Equation for hugo": {
+		"prefix": "eq",
+		"body": [
+      "{{< eq \"$1\" >}}"
+		],
+		"description": "Equation"
+	},
+  "Figure for hugo": {
+    "prefix": "fig",
+    "body": [
+      "{{< figure src=\"$1\" width=$2% >}}"
+    ]
+  }
+}
