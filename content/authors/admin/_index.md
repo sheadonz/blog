@@ -3,7 +3,7 @@
 title: shaedonz
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Akihiro
@@ -11,7 +11,7 @@ last_name: Ondo
 
 # Status emoji
 status:
-  icon: 🍙
+  icon: ⌛️
 
 # Is this the primary user of the site?
 superuser: true
@@ -21,8 +21,8 @@ role: Engineer wannabe
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Panasonic
+    url: 
 
 # Short bio (displayed in user profile at end of posts)
 bio: メーカーの生産技術で、webアプリがんばるエンジニア、のつもり
